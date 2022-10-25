@@ -1,0 +1,356 @@
+PATTERN QUESTIONS 
+NESTED LOOP 
+ SQUARE Question
+ *****
+ *****
+ *****
+ *****
+
+for (int i = 1; i<= 4;i++ ){
+            for (int j = 1; j <= 5;j++){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+
+Hollow Rectangle
+*****
+*   *
+*   *
+*****
+
+   int n = 4;
+        int m = 5;
+        for (int i = 1; i<= n;i++ ){
+
+            for (int j = 1; j <= m;j++){
+                if (i == 1 || j == 1 || i == n || j == m){
+                System.out.print("*");
+                }else
+                    System.out.print(" ");
+                
+            }
+            System.out.println();
+        }
+
+Half Pyramid
+
+        int n = 4;
+
+
+
+        for (int i = 1; i<= n;i++ ){
+
+            for (int j = 1; j <= i;j++){
+
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+
+****
+***
+**
+*
+
+  int n = 4;
+
+
+
+        for (int i = n; i>= 1;i-- ){
+
+            for (int j = 1; j <= i;j++){
+
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+
+     *
+    **
+   ***
+  ****
+
+ int n = 4;
+
+
+//        outer Loop
+        for (int i = 1; i<= n;i++ ){
+//            inner loop for space
+            for (int j = 1; j <= n -i;j++){
+                System.out.print(" ");
+            }
+//            inner loop For print star
+            for (int j = 1; j <= i ; j++){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+
+Hald Pyramid with Numbers
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+1 2 3 4 5 6
+
+
+  int n = 6;
+//        outer Loop
+        for (int i = 1; i<= n;i++ ){
+
+//            inner loop for space
+            for (int j = 1; j<=i;j++){
+                System.out.print(j);
+            }
+
+1 2 3 4 5 6
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+
+ int n = 6;
+//        outer Loop
+        for (int i = n; i>= 1;i-- ){
+
+//            inner loop for space
+            for (int j = 1; j<=i;j++){
+                System.out.print(j + " ");
+            }
+            System.out.println();
+        }
+
+Fyods Triangle
+ 
+ 1
+ 2 3
+ 4 5 6
+ 7 8 9 10
+ 11 12 13 14 15
+
+int n = 5;
+        int number = 1;
+//        outer Loop
+        for (int i = 1; i<= n;i++ ){
+
+//            inner loop for space
+            for (int j = 1; j<=i;j++){
+                System.out.print(number + " ");
+                number++;
+            }
+            System.out.println();
+        }
+
+ 0 and 1 Triangle
+ 
+ 1 
+ 0 1
+ 1 0 1
+ 0 1 0 1
+ 1 0 1 0 1
+
+int n = 5;
+
+//        outer Loop
+        for (int i = 1; i<= n;i++ ){
+
+//            inner loop for space
+            for (int j = 1; j<=i;j++) {
+                int sum = (i + j);
+                if (sum % 2 == 0) {
+                    System.out.print("1 ");
+                } else {
+                    System.out.print("0 ");
+                }
+            }
+            System.out.println();
+        }            
+
+BUTTERFLY PATTERN
+*        *
+**      **
+***    ***
+****  ****
+**********
+**********
+****  ****
+***    ***
+**      **
+*        *
+
+
+   int n = 5;
+
+
+//        outer Loop
+        for (int i = 1; i <= n; i++) {
+
+//            inner loop 
+            // Upper Half
+            //PART ONE
+            for (int j = 1; j <= i; j++) {
+                System.out.print("*");
+            }
+            // SPACES
+            int spaces = 2 * (n - i);
+            for (int j = 1; j <= spaces; j++) {
+                System.out.print(" ");
+            }
+            // 2nd Part
+            for (int j = 1; j <= i; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+          // LOWER HALF
+        for (int i = n; i >= 1; i--) {
+            //PART ONE
+            for (int j = 1; j <= i; j++) {
+                System.out.print("*");
+            }
+            //SPACES
+            int spaces = 2 * (n - i);
+            for (int j = 1; j <= spaces; j++) {
+                System.out.print(" ");
+            }
+            // 2nd Part
+            for (int j = 1; j <= i; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+
+        }
+ 
+  SOLID RHOMBUS PATTERN
+
+    *****
+   *****
+  *****
+ *****
+*****
+
+
+
+int n = 5;
+       int star = 5;
+      for (int i = 1; i<=n;i++){
+          //SPACES
+          int spaces = n-i;
+          for (int j = 1; j<=spaces;j++){
+              System.out.print(" ");
+          }
+          for (int j = 1; j<=star;j++){
+              System.out.print("*");
+          }
+          System.out.println();
+      }
+
+
+NUMBER PYRAMID 
+
+   int n = 5;
+     for (int i = 1; i<=n; i++ ){
+         for (int j = 1; j<= n-i;j++){
+             System.out.print(" ");
+         }
+         for (int j = 1; j<=i;j++){
+             System.out.print(i + " ");
+         }
+         System.out.println();
+     }
+
+
+Palindromic Pattern
+
+    1
+   212
+  32123
+ 4321234
+543212345
+
+   int n = 5;
+        for (int i = 1; i<=n; i++ ) {
+            for (int j = 1; j <= n - i; j++) {
+                System.out.print(" ");
+            }
+            for (int j = i; j>=1; j--) {
+                System.out.print(j);
+            }
+            for(int j = 2; j <= i; j++){
+                System.out.print(j);
+            }
+            System.out.println();
+
+        }
+
+DIAMOND PATTERN
+
+
+ int n = 4;
+        // Upper Half
+        for (int i = 1; i<=n; i++ ) {
+            //SPACES
+            for (int j = 1; j <= n-i; j++) {
+                System.out.print(" ");
+            }
+            //STARS
+            for (int j = i; j<=2*i-1 ; j++) {
+                System.out.print("*");
+            }
+
+            System.out.println();
+
+        }
+
+        // lower Half
+        for (int i = n; i>=1; i-- ) {
+            //SPACES
+            for (int j = 1; j <= n - i; j++) {
+                System.out.print(" ");
+            }
+            //STARS
+            for (int j = i; j<=2* i -1 ; j++) {
+                System.out.print("*");
+            }
+
+            System.out.println();
+
+        }
+
+ 
+
+// Functions
+
+public static int calProduct(int a ,int b){
+       return a * b;
+    }
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+        int value1 = sc.nextInt();
+        int value2 = sc.nextInt();
+
+
+
+FACTORIALS 
+
+  public static void factorialNumber(int a ){
+       int factorials = 1;
+       for (int i = a; i>=1;i--){
+           factorials = factorials * i;
+       }
+       System.out.println(factorials);
+       return;
+    }
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+        int a = sc.nextInt();
+
+          factorialNumber(a);
+
+
+        System.out.println("The Product sum is :: " + calProduct(value1 , value2 ));
