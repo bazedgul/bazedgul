@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bazed Gul</h1>
 <h3 align="center">A passionate C ++ , java and SQL developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **OS , Web-Engineering , Infromation Security and SCD**
+- 🔭 I’m currently working on **Regex - Text-Processing | NLP | Machine Learning   **
 
 - 🌱 I’m currently learning **Java , Software Design and architecture , Human Computer Interaction and DataBase System **
 
