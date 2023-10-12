@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bazed Gul</h1>
-<h3 align="center">A passionate C ++ , java and SQL developer from Pakistan</h3>
+<h3 align="center">A passionate Python , C ++ , java and SQL developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Regex - Data-Preprocessing | NLP | Machine Learning   **
 
 - 🌱 I’m currently learning **Java , Software Design and architecture , Human Computer Interaction and DataBase System **
 
-- 💬 Ask me about **C++ , Java and DBS**
+- 💬 Ask me about **Python, NLP, C++ , Java and DBS**
 
 - 📫 How to reach me **bazedMMII**
 
