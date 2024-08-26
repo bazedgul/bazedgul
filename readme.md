@@ -24,6 +24,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/> 
+  </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
@@ -37,7 +40,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
@@ -58,7 +61,22 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> 
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>
+   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="ViteJS" width="40" height="40"/> 
+  </a>
+   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/> 
+  </a>
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="40" height="40"/> 
+  </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS-Code" width="40" height="40"/> 
   </a>
 </p>
 
