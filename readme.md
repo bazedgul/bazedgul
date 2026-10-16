@@ -1,85 +1,95 @@
-<h1 align="center">Hi 👋, I'm Bazed Gul</h1>
-<h3 align="center">💻 Software Engineer | Backend & Frontend Developer</h3>
+<div align="center">
 
-- 🎓 Recent Graduate in Software Engineering | University of Lahore  **
+# Hi, I'm Bazed Gul 👋
 
-- 🌍 Passionate about building efficient and scalable web applications **
+### Full Stack Developer · AI/LLM Engineer
+**Next.js · TypeScript · Node.js/NestJS · PostgreSQL · RAG Pipelines**
 
-- 🚀 Currently exploring: Java, Node.js, Angular, React, .NET, and more**
+*I build production-grade web apps and AI-powered products, from database to deployed UI.*
 
-- 💬 Ask me about **ReactJs, JavaScript, ExpressJs, MongoDB, Python, NLP, C++ , Java, OOP and DBS**
+[![Portfolio](https://img.shields.io/badge/Portfolio-bazed--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bazed-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bazedgul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bazedgul/)
+[![Email](https://img.shields.io/badge/Email-bazedmmii@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bazedmmii@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-Bazedgul-FFD21E?style=for-the-badge)](https://huggingface.co/Bazedgul)
 
-- 🔍 Open to exciting opportunities in software development
+</div>
 
-- 📫 How to reach me **bazedMMII**
+---
 
-- ⚡ Fun fact **I am Cricket Lover !!**
+## 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bazedgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bazedgul" height="30" width="40" /></a>
-<a href="https://fb.com/bazedgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bazedgul" height="30" width="40" /></a>
-<a href="https://instagram.com/bazedgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bazedgul" height="30" width="40" /></a>
-</p>
+- Full Stack Developer based in **Lahore, Pakistan** with **2+ years** of experience across startups, product teams, and independent SaaS builds
+- Promoted from **Intern → Associate Software Engineer in 3 months** at Txend-TXD Inc
+- BS Software Engineering, **University of Lahore**
+- Specialize in **AI/LLM integration**: RAG pipelines, agent workflows, multi-provider AI routing
+- Currently building at **Zikra InfoTech LLC** and shipping my own products on the side
+- 🔍 **Open to remote roles** (US / Europe / Middle East): Full Stack, AI Engineer, Backend
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="ViteJS" width="40" height="40"/> 
-  </a>
-   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/> 
-  </a>
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="40" height="40"/> 
-  </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS-Code" width="40" height="40"/> 
-  </a>
-</p>
+---
+
+## 🚀 Featured Project
+
+### [JobHunt AI](https://jobhunt-ai-eight.vercel.app/): AI-powered job search platform
+> 21 shipped features · Supabase backend · AI router across multiple LLM providers
+
+Helps job seekers find, track, and apply to roles faster using AI (resume analysis, matching, and automation).
+**Stack:** Next.js · TypeScript · Supabase · PostgreSQL · Groq · Gemini · Claude API
+
+👉 **[Try the live demo](https://jobhunt-ai-eight.vercel.app/)**
+
+---
+
+## 🛠️ Tech Stack
+
+| Area | Technologies |
+|---|---|
+| **Frontend** | React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3 |
+| **Backend** | Node.js, NestJS, Express.js, REST APIs, Python |
+| **Databases** | PostgreSQL, MongoDB, Supabase, ChromaDB |
+| **AI / LLM** | Claude API, Gemini, Groq, LangGraph.js, RAG, Prompt Engineering, NLP |
+| **DevOps & Tools** | Git, GitHub, Vercel, Docker, Postman, CI/CD basics |
+| **Core CS** | Data Structures, OOP, DBMS, System Design basics |
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bazedgul&show_icons=true&locale=en&layout=compact" alt="bazedgul" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,nestjs,postgres,mongodb,supabase,python,docker,git,tailwind,vercel&theme=dark" />
 </p>
+
+---
+
+## 💼 Experience Snapshot
+
+| Company | Role | Focus |
+|---|---|---|
+| **Zikra InfoTech LLC** | Full Stack Developer | Web apps, API development, AI integrations |
+| **RE2QA** | Software Engineer | Full stack development |
+| **Txend-TXD Inc** | Associate Software Engineer (promoted from Intern in 3 months) | Frontend + Backend features |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bazedgul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazedgul&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 What I Bring to a Team
+
+- **Ownership**: I take features from idea → schema → API → UI → deployment
+- **AI-first mindset**: I know when to use an LLM, when not to, and how to keep it cheap and reliable
+- **Speed with quality**: promoted in 3 months because I ship clean, working code
+- **Clear communication**: comfortable working async with remote and international teams
+
+---
+
+## 📫 Let's Connect
+
+Hiring or have a project in mind? Message me on [LinkedIn](https://www.linkedin.com/in/bazedgul/) or email **bazedmmii@gmail.com**.
+
+<div align="center">
+
+⚡ *Fun fact: I'm a huge cricket fan 🏏*
+
+</div>
