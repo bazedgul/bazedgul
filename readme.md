@@ -61,7 +61,7 @@ Helps job seekers find, track, and apply to roles faster using AI (resume analys
 | Company | Role | Focus |
 |---|---|---|
 | **Zikra InfoTech LLC** | Full Stack Developer | Web apps, API development, AI integrations |
-| **RE2QA** | Software Engineer | Full stack development |
+| **RE2QA** | Frontend Engineer Inten | Full stack development |
 | **Txend-TXD Inc** | Associate Software Engineer (promoted from Intern in 3 months) | Frontend + Backend features |
 
 ---
